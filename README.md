@@ -52,10 +52,10 @@ Após a seleção, o programa retorna o resultado da operação.
 
 ## Autores
 
-- **Nome do Autor 1** - *Desenvolvedor* - [GitHub](https://github.com/tallismelo07)
-- **Nome do Autor 2** - *Desenvolvedor* - [GitHub](https://github.com/leonardoalvarengaa)
-- **Nome do Autor 3** - *Desenvolvedor* - [GitHub](https://github.com/gabrfrade01)
-- **Nome do Autor 4** - *Desenvolvedor* - [GitHub](https://github.com/marcosjrzz)
+- **Tallis Teixeira** - *Desenvolvedor* - [GitHub](https://github.com/tallismelo07)
+- **Leonardo Alvarega** - *Desenvolvedor* - [GitHub](https://github.com/leonardoalvarengaa)
+- **Gabriel Frade** - *Desenvolvedor* - [GitHub](https://github.com/gabrfrade01)
+- **Marcos Rezende** - *Desenvolvedor* - [GitHub](https://github.com/marcosjrzz)
 
 
  
